@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.py[cod]
@@ -69,3 +70,7 @@ instance/
 *.temp
 temp/
 tmp/
+=======
+node_modules/
+.env
+>>>>>>> 864de92f6c9b4933086a9da49f68b0cf833558a0
